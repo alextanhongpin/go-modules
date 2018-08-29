@@ -1,0 +1,4 @@
+.vscode/
+
+# Exclude vendor directory
+vendor/
